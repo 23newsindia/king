@@ -1,0 +1,35 @@
+/* Typography
+--------------------------*/
+/* ------CustomCSS------ */
+/* ------body------ */
+body {
+	
+			font-family: 'Roboto', sans-serif;
+	
+}
+/* ------header------ */
+
+
+
+
+
+/* ------footer------ */
+/* ------sidebar------ */
+
+/* ------PostPage------ */
+
+/* ------KingflixPage------ */
+
+.user-header-noavatar,
+.king-notify-avatar-img,
+.no-avatar,
+.users-avatar .users-noavatar,
+.king-dashboard-avatar,
+.king-inbox-avatar,
+.card-noavatar,
+.king-leaderboard .lb-avatar,
+.content-author-noavatar,
+.king-lf-links .users-noavatar {
+	background-image: url(https://comfyuiblog.com/wp-content/uploads/2024/09/Screenshot2024-09-25at16.48.45.avif);
+	background-size: cover;
+}
